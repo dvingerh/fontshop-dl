@@ -111,5 +111,5 @@ if __name__ == "__main__":
 		else:
 			get_fonts(typeface_arg, is_url=True)
 	else:
-		print("No URL was given.")
+		print("No font family name or URL was given.")
 		log_separator()
