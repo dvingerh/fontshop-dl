@@ -6,7 +6,7 @@
 
 Python script to download Fontshop font files in `.woff` format. Supports Python 2.7 and 3.5.
 
-During to the inner workings of Fontshop, some fonts will be unavailable to be downloaded.
+Because of the inner workings of Fontshop, some fonts will be unavailable to be downloaded.
 There are [numerous websites](https://www.google.com/search?q=woff+to+ttf+converter&oq=woff+to+ttf+converter) that can convert `.woff` files to `.ttf` (or any other format you want).
 
 Downloads will be saved to `fontshop-dl/Font Name`. Directories are automatically created if they don't exist yet.
