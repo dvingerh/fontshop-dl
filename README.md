@@ -2,7 +2,12 @@
 ![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Python 2.7, 3.5](https://img.shields.io/badge/Python-2.7%2C%203.5%2B-3776ab.svg)
 
-[![Support me!](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/dvingerh)
+### Notice
+
+The following project code was released as a learning tool only. Support the authors by purchasing their works if you intend on using them for commercial purposes.
+
+![](https://raw.githubusercontent.com/dvingerh/transmission-renamer/master/Screenshots/spacer.png?raw=true)
+
 
 Python script to download Fontshop font files in `.woff` format. Supports Python 2.7 and 3.5.
 
